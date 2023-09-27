@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Ux-Designer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+  <link href="./assets/masters.css" rel="stylesheet" />
+  <script src="./assets/auxiliarMetodos.js"></script>
+
+
+
+</head>
+
+<body>
+
+  <header class="bd-indigo-600 title-wellAlert text-white">
+
+    <h2>
+      CREAR ALARMA
+    </h2>
+
+
+
+  </header>
+  <main>
+    <hr />
+  </main>
+  <section style="top: 15%">
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <select class="inputWellAlert" placeholder="NOMBRE ALARMA">
+            <option value="1">TIPO DE ALARMA </option>
+            <option value="2">TIPO 1</option>
+            <option value="3">TIPO 2</option>
+            <option value="4">TIPO 3</option>
+          </select>
+
+        </div>
+      </div>
+
+    </div>
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <input type="text" class="inputWellAlert" name="nombreCompleto" id="nombreCompleto"
+            placeholder="NOMBRE DE ALARMA">
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <input type="text" class="inputWellAlert" name="duracion" id="duracion" placeholder="DURACION">
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <input type="text" class="inputWellAlert" name="intensidad" id="intensidad"
+            placeholder="INTENSIDAD DE VOLUMEN">
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <select class="inputWellAlert" placeholder="TIPO DE TONO">
+            <option value="1">TIPO DE TONO</option>
+            <option value="2">TIPO 1</option>
+            <option value="3">TIPO 2</option>
+            <option value="4">TIPO 3</option>
+          </select>
+
+
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row mt-5 mb-5">
+      <div class="col-12   text-center">
+        <div class="form-group text-center">
+          <input type="text" id="start" class="inputWellAlert" placeholder="FECHA HORA" onfocus="(this.type='date')"
+            onblur="(this.type='text')" />
+
+        </div>
+      </div>
+
+    </div>
+
+
+
+    <div class="row mt-5 p-5">
+      <div class="col-6 text-center">
+        <button type="button" style="width: 60%;" onclick="javascript:alarmas()"
+          class="btn btn-success greenBoton  botonSizeConfiguration">
+          CREAR
+        </button>
+      </div>
+      <div class="col-6 text-center">
+        <button type="button" style="width: 60%;" onclick="javascript:alarmas()"
+          class="btn btn-danger  redBotton  botonSizeConfiguration">
+          CANCELAR
+        </button>
+      </div>
+    </div>
+
+
+  </section>
+  <footer class="bd-indigo-600">
+    <div class="row">
+      <div class="col">
+        <img src="./img/flecha_izquierda.svg" onclick="history.back()" />
+      </div>
+
+      <div class="col">
+        <img src="./img/home.svg" onclick="javascript:home()" />
+      </div>
+      <div class="col">
+        <img src="./img/flecha_derecha.svg" onclick="history.forward()" />
+      </div>
+    </div>
+  </footer>
+
+  <!-- Nav tabs -->
+</body>
+
+</html>
