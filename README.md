@@ -1,11 +1,12 @@
 # WellAlertMobile
 
+**Aplicación de alarmas para la industria pretrolera**
+
 ## Integrantes
 ELISA MARIA ANGULO VANEGAS:ELISAANGULO
 
 YONATHAN BELTRAN ROMERO: nathanbelt23UniAndes 
 
-**Aplicación de alarmas médicas**
 
 ## Instalación
 
