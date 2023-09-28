@@ -24,10 +24,10 @@
 
 5-Tan pronto lo instales encontrar la aplicacion con el siguiente logo
 
-![WhatsApp Image 2023-09-27 at 20 57 00](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/c050597f-2195-4bd9-879a-dc99ba4af702){width=0.5}
+![WhatsApp Image 2023-09-27 at 20 57 00](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/c050597f-2195-4bd9-879a-dc99ba4af702)
 
 Despues de esto podras abrir la aplicacion y podras entrar a al aplicacion y navegar en ella
-![WhatsApp Image 2023-09-27 at 20 58 36](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/74ab17f5-7010-431b-bab0-9f5fb4773628){width=0.5}
+![WhatsApp Image 2023-09-27 at 20 58 36](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/74ab17f5-7010-431b-bab0-9f5fb4773628)
 
 
 6-Te dejamos las pantallas de la aplicacion
