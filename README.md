@@ -1,5 +1,10 @@
 # WellAlertMobile
 
+## Integrantes
+ELISA MARIA ANGULO VANEGAS:ELISAANGULO
+
+YONATHAN BELTRAN ROMERO: nathanbelt23UniAndes 
+
 **Aplicación de alarmas médicas**
 
 ## Instalación
