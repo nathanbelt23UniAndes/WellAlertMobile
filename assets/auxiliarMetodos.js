@@ -32,15 +32,17 @@ function inicio() {
 
 
 function borrarAlarma() {
-  window.location.href = "eliminaralarma.html";
+  window.location.href = "eliminarAlarma.html";
 }
 
 function editarAlarma() {
-  window.location.href = "editaralarma.html";
+  window.location.href = "editarAlarma.html";
 }
 
 function crearAlarma() {
   window.location.href = "crearAlarma.html";
+
+
 }
 
 
