@@ -4,28 +4,25 @@
 
 ## Instalación
 
-1-Para la instalacion  de la aplicacion, esta se debe encontrar en la memmoria del celular
+1-Para la instalación de la aplicacion, esta se debe encontrar en la memoria del celular
 
-![WhatsApp Image 2023-09-27 at 18 26 08](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/f8a511e5-fef9-465d-af89-84c3be9e16b2){width=0.5}
+![WhatsApp Image 2023-09-27 at 18 26 08](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/f8a511e5-fef9-465d-af89-84c3be9e16b2)
 
-
-
-2-Por favor  cuando lo selecciones pulsa sobre la opcion de instalar
-![WhatsApp Image 2023-09-27 at 20 41 12](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/4077cd96-b494-46b2-8358-81fee4f3e29b){width=0.5}
+2-Por favor cuando lo selecciones pulsa sobre la opción de instalar
+![WhatsApp Image 2023-09-27 at 20 41 12](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/4077cd96-b494-46b2-8358-81fee4f3e29b)
 
 
-3-Te saldra el siguiente si no tienes permitido la instalacion que vienen desde fuentes anonimas, en esta caso selecciona instalar de cualquier modo o anyway
+3-Te saldrá el siguiente si no tienes permitido la instalación que vienen desde fuentes anónimas, en este caso selecciona instalar de cualquier modo o anyway
 
 ![WhatsApp Image 2023-09-27 at 18 26 44](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/9101906a-c2ca-497e-b3f4-cbf1e32cfa7b)
 
 
-4-Depende la configuracion de tu celular puede hacerte una  verificacion de virus
+4-Depende la configuración de tu celular puede hacerte una verificación de virus
 
 ![WhatsApp Image 2023-09-27 at 18 27 29](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/bf381292-ac88-4fe7-aa49-68f3659dc049)
 
 
-
-5-Tan pronto lo instales encontras la aplicacion con el siguiente  logo
+5-Tan pronto lo instales encontrar la aplicacion con el siguiente logo
 
 ![WhatsApp Image 2023-09-27 at 20 57 00](https://github.com/nathanbelt23UniAndes/WellAlertMobile/assets/111519973/c050597f-2195-4bd9-879a-dc99ba4af702){width=0.5}
 
